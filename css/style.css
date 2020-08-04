@@ -23,6 +23,7 @@ h3{
 .search{
     margin: 30px;
     border-radius: 50px;
+    outline: 0;
     padding: 10px;
     width: 35%;
 }
@@ -34,4 +35,7 @@ button{
 .lucky{
     margin-left: 10px;
 
+}
+button:hover{
+    border: 1px solid #eee;
 }
