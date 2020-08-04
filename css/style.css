@@ -5,10 +5,33 @@
 }
 .navbar{
     text-align: right;
+    margin-top: 10px;
 }
 .navbar a{
     text-decoration: none;
     margin-left: 15px;
     color: black;
     font-weight: bold;
+}
+h3{
+    text-align: center;
+    margin-top: 150px;
+}
+.form-group{
+    text-align: center;
+}
+.search{
+    margin: 30px;
+    border-radius: 50px;
+    padding: 10px;
+    width: 35%;
+}
+button{
+    padding: 10px;
+    text-transform: capitalize;
+    border: hidden;
+}
+.lucky{
+    margin-left: 10px;
+
 }
