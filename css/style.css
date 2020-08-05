@@ -13,7 +13,7 @@
     color: black;
     font-weight: bold;
 }
-h3{
+.google-img{
     text-align: center;
     margin-top: 150px;
 }
@@ -36,6 +36,48 @@ button{
     margin-left: 10px;
 
 }
-button:hover{
-    border: 1px solid #eee;
+.google-search:hover{
+    border: 2px solid #eee;
+    
+
+}
+.lucky:hover{
+    border: 2px solid #eee;
+}
+.language{
+    text-align: center;
+    margin-top: 35px;
+}
+.language a{
+    text-decoration: none;
+    margin-right: 10px;
+}
+footer{
+    margin-top: 100px;
+}
+h3{
+    padding: 10px;
+    background: #eee;
+    color: rgba(0,0,0,.54);
+    border:0.2px solid RGB(174, 182, 191);
+}
+.information{
+    background: #eee;
+    padding: 10px;
+}
+.promation a{
+    text-decoration: none;
+    margin-left: 15px;
+    color: rgba(0,0,0,.54);
+    font-weight: bold;
+    
+}
+.setting{
+    float:right;
+}
+.setting a{
+    text-decoration: none;
+   margin-left: 15px;
+   color: rgba(0,0,0,.54);
+   font-weight: bold;
 }
